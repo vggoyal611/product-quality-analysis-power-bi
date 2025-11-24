@@ -169,7 +169,7 @@ Power BI auto-generated key summaries, such as:
 👤 Author: Vaibhav Goyal<br>  
 📧 Email: vg.goyal611@gmail.com<br>  
 💼 [LinkedIn](https://www.linkedin.com/in/vaibhav-goyal-29b70a30/)<br>  
-🌐 [Portfolio](https://github.com/vggoyal611)<br>
-🌐 [Website](https://vaibhav-goyal-7nkea52.gamma.site)<br>
+🧑‍💻 [Portfolio](https://github.com/vggoyal611)<br>
+🌐 [Website](https://vaibhav-goyal-7nkea52.gamma.site)
 
 ---
