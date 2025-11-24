@@ -143,9 +143,19 @@ Power BI auto-generated key summaries, such as:
 ## <a id="screenshots"></a>📸 Report Screenshots  
 (Add the two screenshots here)
 
-- **Key Influencers View**  
-- **Country of Origin Quality Comparison**  
+- **Key Influencers View**
+
+<img width="1338" height="792" alt="Image" src="https://github.com/user-attachments/assets/8d770a2e-526b-4d1c-8e3f-ce7184207aac" />
+
+  
+- **Country of Origin Quality Comparison**
+
+  <img width="1346" height="791" alt="Image" src="https://github.com/user-attachments/assets/f8794203-4b77-4b3a-80c0-216ac9e3fba7" />
+
 - **Quality Parameter Visual**  
+
+<img width="1342" height="802" alt="Image" src="https://github.com/user-attachments/assets/31da4fbf-a567-4c3d-a555-e4010088ec38" />
+
 
 ---
 
@@ -153,6 +163,6 @@ Power BI auto-generated key summaries, such as:
 **Vaibhav Goyal**  
 📧 Email: *vg.goyal611@gmail.com*  
 💼 LinkedIn: https://www.linkedin.com/in/vaibhav-goyal-29b70a30/  
-🌐 GitHub: https://github.com/vggoyal611  
-
+🌐 GitHub: https://github.com/vggoyal611
+🌐 Website: https://vaibhav-goyal-7nkea52.gamma.site/
 ---
