@@ -47,7 +47,7 @@ These insights can help exporters, specialty roasters, and researchers understan
 ---
 
 ## <a id="dataset"></a>📂 Dataset
-- **Source:** Coffee Quality Institute dataset (CQI) *(provided to you)*
+- **Source:** Coffee Quality Institute dataset (CQI) 
 - **Rows:** ~211  
 - **Columns:** Sensory attributes, farm details, processing method, country, altitude, etc.  
 - **Years Covered:** Mostly 2023
@@ -145,11 +145,22 @@ Power BI auto-generated key summaries, such as:
 
 - **Key Influencers View**
 
+
+
+
+
+
 <img width="1338" height="792" alt="Image" src="https://github.com/user-attachments/assets/8d770a2e-526b-4d1c-8e3f-ce7184207aac" />
+
+
+
 
 
   
 - **Country of Origin Quality Comparison**
+
+
+
 
 
 
@@ -158,7 +169,14 @@ Power BI auto-generated key summaries, such as:
 
 
 
+
+
 - **Quality Parameter Visual**  
+
+
+
+
+
 
 <img width="1342" height="802" alt="Image" src="https://github.com/user-attachments/assets/31da4fbf-a567-4c3d-a555-e4010088ec38" />
 
